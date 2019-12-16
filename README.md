@@ -4,8 +4,8 @@ English Premier League is top division domestic league played in England whereas
 
 The 2018-19 English Premier league finished very close in terms of points with eventual champions Manchester City finishing with 98 points and 2nd placed Liverpool finsishing second with 97 points. Liverpool went on to win the Champions League in that season.
 
-In this analysis, I have tried to analyze  Man City and Liverpool player attributes from the Fifa 19 dataset(courtesy: Kaggle). Premier league and Champions League is gruelling in terms of number of matches and close competition which demands high fitness and expensive players.
+In this analysis, I have tried to analyze  Man City and Liverpool player attributes from the Fifa 19 dataset(courtesy: https://www.kaggle.com/karangadiya/fifa19). Premier league and Champions League is gruelling in terms of number of matches and close competition which demands high fitness and expensive players.
 
 *This data analysis and visualization aims to answer the following question while comparing Manchester City and Liverpool players
 
-![](https://www.premierleague.com/clubs/10/Liverpool/overview)
+![Premier league table 2018-19](https://www.premierleague.com/clubs/10/Liverpool/overview)
