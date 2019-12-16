@@ -6,9 +6,9 @@ The 2018-19 English Premier league finished very close in terms of points with e
 
 In this analysis, I have tried to analyze  Man City and Liverpool player attributes from the Fifa 19 dataset(courtesy: https://www.kaggle.com/karangadiya/fifa19). Premier league and Champions League is gruelling in terms of number of matches and close competition which demands high fitness and expensive players.
 
-*This data analysis and visualization aims to answer the following question while comparing Manchester City and Liverpool players
+*This data analysis and visualization aims to answer the following aspects while comparing Manchester City and Liverpool players
 
-* 1)**Physical Aspect** Correlation between Body Mass index of the players and stamina.
-* 2)**Financial**Cost effectiveness by comparing the Wages for the players.
-* 3)**Home talent**Ratio of home and foreign players in the respective team.
-* 4)**Mental Aspect**Positioning and composure of the players.
+* 1)**Physical attribute** Correlation between Body Mass index of the players and stamina.
+* 2)**Cost effectiveness** Comparing the Wages for the players.
+* 3)**Home talent** Ratio of home and foreign players in the respective team.
+* 4)**Mental Attribute** Positioning and composure of the players.
