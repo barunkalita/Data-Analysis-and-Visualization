@@ -1,4 +1,4 @@
-## English Premier League  and UEFA Champions League Winner Analysis for the season 2018-19
+## Data analysis and visualization: English Premier League & UEFA Champions League Winner  2018-19
 
 English Premier League is top division domestic league played in England whereas UEFA Champions League is league knockout competition which is played by top teams across Europe.
 
