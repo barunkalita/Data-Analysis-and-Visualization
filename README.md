@@ -8,7 +8,7 @@ In this analysis, I have tried to analyze  Man City and Liverpool player attribu
 
 *This data analysis and visualization aims to answer the following question while comparing Manchester City and Liverpool players
 
-1)**Physical Aspect** Correlation between Body Mass index of the players and stamina
-2)**Financial**Cost effectiveness by comparing the Wages for the players
-3)**Home talent**Ratio of home and foreign players in the respective team
-4)**Mental Aspect**Positioning and composure of the players
+* 1)**Physical Aspect** Correlation between Body Mass index of the players and stamina.
+* 2)**Financial**Cost effectiveness by comparing the Wages for the players.
+* 3)**Home talent**Ratio of home and foreign players in the respective team.
+* 4)**Mental Aspect**Positioning and composure of the players.
