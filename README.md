@@ -8,4 +8,4 @@ In this analysis, I have tried to analyze  Man City and Liverpool player attribu
 
 *This data analysis and visualization aims to answer the following question while comparing Manchester City and Liverpool players
 
-![Premier league table 2018-19](https://www.premierleague.com/clubs/10/Liverpool/overview)
+![Premier league table 2018-19](https://www.independent.ng/wp-content/uploads/2019/05/Premier-league-table.jpg)
