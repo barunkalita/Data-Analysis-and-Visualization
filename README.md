@@ -12,3 +12,23 @@ In this analysis, I have tried to analyze  Man City and Liverpool player attribu
 * **Cost effectiveness** Comparing the Wages for the players to assess how much money was spent in wages to acheive the results.
 * **Home talent** Ratio of home and foreign players in the respective team to assess how much importance do the club give to groom players for national team
 * **Playing Attribute** Positioning and composure of the players from both the teams.
+
+
+
+**Conclusion**
+
+**Physical Attribute**
+BMI of almost all the players from both the team is in the healthy range of 18-25. It can be infered that players from both the teams 
+have maintained their weight in accordance to their height.
+Stamina vs BMI is too scattered to draw any sort of inference.
+
+
+**Cost effectiveness**
+Man City and Liverpool finished very close in the points table with Man City winning the English Premier League with one point difference. 
+Liverpool not only finished second in the league but went on to win the Champions League.
+Looking at the wage distribution in terms of mean, median, max, standard deviation along with total money spent it is quite clear that Man City 
+have invested far more money than Liverpool. Man CIty winning the league justifies the money they have spent but on a larger scale it does not seems to be cost effective.
+
+
+**Playing Attribute**
+Playing attribute viz. Composure and Positioning is roughly same for both the teams. There is not much difference between in the distribution of the two attributes under study.
